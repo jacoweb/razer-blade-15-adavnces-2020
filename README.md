@@ -9,7 +9,7 @@ Use this repo to run Mac OS Big sur perfectly on your razer blade model 2020.
 cd /Volumes/EFI && mkdir EFI && cd EFI
 ```
 ```bash
-git clone git@github.com:jacoweb/razer-blade-15-adavnces-2020.git .
+git clone git@github.com:jacoweb/razer-blade-15-advanced-2020.git .
 ```
 ```bash
 Download Opencore Configurator and change SMBIOS serialnumber.
